@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "C1- Introducción a la programación y al diseño de Software",
     "section": "",
-    "text": "C1- Introducción a la programación y al diseño de Software\n\n\nC2- Programación en C\n\n\nC3- Base de datos SQL (SQL Server)\n\n\nC4- Winforms y conexión a datos\n\n\nC5- Desarrollo Front End\n\n\nC6- ASP.NET"
+    "text": "WEB\n\nC1- Introducción a la programación y al diseño de Software\nC1\n\n\nC2- Programación en C\n\n\nC3- Base de datos SQL (SQL Server)\n\n\nC4- Winforms y conexión a datos\n\n\nC5- Desarrollo Front End\n\n\nC6- ASP.NET"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,68 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "",
+    "text": "LIBRO UOC Introduccion al Desarrollo de Software\nLIBRO UOC Ingenieria del Software"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-12092023---presentación-del-curso-algoritmía",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-12092023---presentación-del-curso-algoritmía",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "Sesión 12/09/2023 - Presentación del curso + Algoritmía",
+    "text": "Sesión 12/09/2023 - Presentación del curso + Algoritmía\n\nPresentación de unos y otros, explicaciones\nEncuesta de nivel\nAlgoritmia\n\nLectura de la clase"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#libro-uoc-ingenieria-del-software.pdf",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#libro-uoc-ingenieria-del-software.pdf",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "LIBRO UOC Ingenieria del Software.pdf",
+    "text": "LIBRO UOC Ingenieria del Software.pdf"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-13092023---herramientas-de-desarrollo",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-13092023---herramientas-de-desarrollo",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "Sesión 13/09/2023 - Herramientas de desarrollo",
+    "text": "Sesión 13/09/2023 - Herramientas de desarrollo\n\nLlenguatges de programación\n\nDiferents llenguatges de programació i àmbits d’aplicació:\nLink1\nLink2\nLlenguatge compilat vs. interpretat\nLink\n\n\n\nInstalar VS2022\nInstalacion\n\n\nDiagramas ejercicios:\n. PascalCase\n. Comparar fechas\n. Comprobar palindromo\nNormas para el envío de vuestros archivos/soluciones:\n\ncomo archivos adjunto, no pegados en el cuerpo del mail\ncon vuestro nombre y la descripción de los que es: por ejemplo, “Pepe diagrama palindromo.dia”\n\nLenguajes de programación\nInstalacion\nEjercicios\n\nArquitectura\nCreación de un proyecto en C#: App de consola (NET Framework)\nHacer los ejercicios CS: Nivel 1, nivel 2"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#section",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#section",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "",
+    "text": "Cursos gratuitos para prepararse:\nLo básico de C# (2h)\nhttps://www.udemy.com/course/lo-basico-de-csharp/\nIntro a C# (30’)\nhttps://www.udemy.com/course/intro-csharp/\nC# para principiantes (2h):\nhttps://www.udemy.com/course/c-para-principiantes-net-sql-crud/\nFundamentos de C# (9h):\nhttps://www.udemy.com/course/c-sharp-para-principiantes/"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#arquitectura",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#arquitectura",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "- Arquitectura",
+    "text": "- Arquitectura\n\nCreación de un proyecto en C#: App de consola (NET Framework)\nHacer los ejercicios CS: Nivel 1, nivel 2\n\nCursos gratuitos para prepararse:\nLo básico de C# (2h)\nhttps://www.udemy.com/course/lo-basico-de-csharp/\nIntro a C# (30’)\nhttps://www.udemy.com/course/intro-csharp/\nC# para principiantes (2h):\nhttps://www.udemy.com/course/c-para-principiantes-net-sql-crud/\nFundamentos de C# (9h):\nhttps://www.udemy.com/course/c-sharp-para-principiantes/\nCursos gratuitos para prepararse:\nLo básico de C# (2h)\nhttps://www.udemy.com/course/lo-basico-de-csharp/\nIntro a C# (30’)\nhttps://www.udemy.com/course/intro-csharp/\nC# para principiantes (2h):\nhttps://www.udemy.com/course/c-para-principiantes-net-sql-crud/\nFundamentos de C# (9h):\nhttps://www.udemy.com/course/c-sharp-para-principiantes/"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-15092023---arquitectura-cursos",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-15092023---arquitectura-cursos",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "Sesión 15/09/2023 - Arquitectura + cursos",
+    "text": "Sesión 15/09/2023 - Arquitectura + cursos\nCursos gratuitos para prepararse:\nLo básico de C# (2h) : C#\nIntro a C# (30’) : C#\nC# para principiantes (2h) : C#\nFundamentos de C# (9h) : C#\nArquitectura CreacionProyectos Ejercicios"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-15092023---arquitectura-cursos-1",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-15092023---arquitectura-cursos-1",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "Sesión 15/09/2023 - Arquitectura + cursos",
+    "text": "Sesión 15/09/2023 - Arquitectura + cursos\nRealidad de un proyecto, waterfall\nEstimación de un proyecto: Planning Poker\nFinalizar ejercicios nivel 3\nPoker Agile"
+  },
+  {
+    "objectID": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-18092023---metodología-agile",
+    "href": "files/C1/C1-Introducción-a-la-programación-y-al-diseño-de-Software.html#sesión-18092023---metodología-agile",
+    "title": "C1- Introducción a la programación y al diseño de Software",
+    "section": "Sesión 18/09/2023 - Metodología Agile",
+    "text": "Sesión 18/09/2023 - Metodología Agile\nRealidad de un proyecto, waterfall\nEstimación de un proyecto: Planning Poker\nFinalizar ejercicios nivel 3\nPokerAgile Agile"
   }
 ]

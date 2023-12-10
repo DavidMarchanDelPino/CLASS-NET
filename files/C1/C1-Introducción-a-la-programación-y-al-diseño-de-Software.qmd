@@ -1,0 +1,97 @@
+---
+title: "C1- Introducción a la programación y al diseño de Software"
+---
+
+[LIBRO UOC Introduccion al Desarrollo de Software](../C1/LIBRO%20UOC%20Introduccion%20al%20Desarrollo%20de%20Software.pdf)
+
+[LIBRO UOC Ingenieria del Software](../C1/LIBRO%20UOC%20Ingenieria%20del%20Software%20(1).pdf)
+
+## Sesión 12/09/2023 - Presentación del curso + Algoritmía
+
+- Presentación de unos y otros, explicaciones
+
+- Encuesta de nivel
+
+- Algoritmia
+
+[Lectura de la clase](../C1/12-09-2023_Presentaci%C3%B3n-del-curso-%2B-Algoritm%C3%ADa/C1.2.1%20Algoritmos%20y%20diagramas%20de%20flujo%20(3).pdf)
+
+## Sesión 13/09/2023 - Herramientas de desarrollo
+
+### Llenguatges de programación
+
+- Diferents llenguatges de programació i àmbits d’aplicació:
+
+    [Link1](https://spectrum.ieee.org/top-programming-languages-2022)
+
+    [Link2](https://devm.io/java/energy-efficient-programming-languages-137264)
+
+ 
+
+- Llenguatge compilat vs. interpretat
+
+    [Link](https://www.semanticscholar.org/paper/Analyzing-Programming-Languages'-Energy-An-Study-Georgiou-Kechagia/d97c3f66b57c19e949ed0f9a40b0755f86333663/figure/0)
+
+### Instalar VS2022
+
+[Instalacion](./13-09-2023_Herramientas-de-desarrollo/C1.3.1%20-%20Instalaci%C3%B3n%20de%20VS%20y%20conceptos%20de%20.NET.pdf)
+
+### Diagramas ejercicios:
+
+. PascalCase
+
+. Comparar fechas
+
+. Comprobar palindromo
+
+Normas para el envío de vuestros archivos/soluciones:
+
+- como archivos adjunto, no pegados en el cuerpo del mail
+
+- con vuestro nombre y la descripción  de los que es:  por ejemplo, "Pepe diagrama palindromo.dia"
+
+[Lenguajes de programación](./13-09-2023_Herramientas-de-desarrollo/C1.2.2%20Lenguajes%20de%20programacion.pdf)
+
+[Instalacion](./13-09-2023_Herramientas-de-desarrollo/C1.3.1%20-%20Instalaci%C3%B3n%20de%20VS%20y%20conceptos%20de%20.NET.pdf)
+
+[Ejercicios](./13-09-2023_Herramientas-de-desarrollo/Ejercicios%20C1.2.pdf)
+
+
+
+
+- Arquitectura
+
+- Creación de un proyecto en C#: App de consola (NET Framework)
+
+- Hacer los ejercicios CS: Nivel 1, nivel 2
+
+ 
+## Sesión 15/09/2023 - Arquitectura + cursos
+ 
+
+Cursos gratuitos para prepararse:
+
+ 
+
+Lo básico de C# (2h) : [C#](https://www.udemy.com/course/lo-basico-de-csharp/)
+
+Intro a C# (30') : [C#](https://www.udemy.com/course/intro-csharp/)
+
+C# para principiantes (2h) : [C#](https://www.udemy.com/course/c-para-principiantes-net-sql-crud/)
+
+Fundamentos de C# (9h) : [C#](https://www.udemy.com/course/c-sharp-para-principiantes/)
+
+[Arquitectura](./15-09-2023_Arquitectura%2Bcursos/Arquitectura%20de%20los%20ordenadores%20(1).pdf)
+[CreacionProyectos](./15-09-2023_Arquitectura%2Bcursos/C1.3.2%20-%20Creaci%C3%B3n%20de%20un%20proyecto%20con%20C%23.pdf)
+[Ejercicios](./15-09-2023_Arquitectura%2Bcursos/Ejercicios%20CS%20(1).pdf)
+
+## Sesión 18/09/2023 - Metodología Agile
+
+Realidad de un proyecto, waterfall 
+
+Estimación de un proyecto: Planning Poker
+
+Finalizar ejercicios nivel 3
+
+[PokerAgile](./18-09-2023_Metodolog%C3%ADa-Agile/Baraja%20agile%20planning%20poker%20(1).pdf)
+[Agile](./18-09-2023_Metodolog%C3%ADa-Agile/C1.4.1%20-%20Resumen%20Metodologias%20Agiles%20(1).pdf)
